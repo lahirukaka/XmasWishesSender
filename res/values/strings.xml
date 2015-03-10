@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Xmas Wishes Sender</string>
+    <string name="send_lbl_phone">Phone Number</string>
+    <string name="send_btn_send">Send Wish</string>
+    <string name="schedule_btn">Schedule</string>
+    <string name="land_loading_txt">Pendind Cetegory Selection</string>
+    <string name="sales">Download our other Apps</string>
+
+    <!-- DataBase -->
+
+    <string-array name="categories">
+        <item>BestFriends</item>
+        <item>Friends</item>
+        <item>Brother</item>
+        <item>Sister</item>
+        <item>Mother</item>
+        <item>Father</item>
+        <item>Kids</item>
+        <item>Son</item>
+        <item>Daughter</item>
+    </string-array>
+    <string-array name="BestFriends">
+        <item>Wish u all A Merry Christmas
+May the Joys of the season
+Fill your heart with goodwill and cheer.
+May the chimes of Christmas glory
+Add up more shine and spread
+Smiles across the miles
+Today and In the New Year.</item>
+        <item>I Am Dreaming Of White Christmas, With Every Christmas Card i Write, May Your Days Be Merry and Bright, and MAY all Your Christmases Be White. Happy Christmas.</item>
+        <item>This Is The Month Of Candies,
+Cakes,
+Coolness,
+Snows,
+X\'Mas Songs,
+X\'Mas Sandals,
+Etc&#8230;
+So Enjoy The Every Moment
+With Peace and Happiness.</item>
+        <item>Love You And Miss You Dearly
+And May You Share Your Joy
+During This Festive Season
+With Your Beloved One
+And May All The Things
+You Have Wished For Come Your Way.</item>
+        <item>Jingle bells,
+Christmas smells and noises everywhere
+What we need here
+Is Christmas cheer
+And hot cocoa all around. When Santa comes
+And brings his bounty
+Oh will those sleigh bells jingle
+Across the sky,
+Late at night,
+To the next house he goes.</item>
+        <item>Joy was on Christ,
+Love was on mas,
+so let all of this found u anywhere u are this lovely season.
+merry x mas and happy new year</item>
+        <item>May Santa Claus shower the bounties of love, laughter, peace and happiness on you at all times!
+Merry Christmas!</item>
+        <item>Sending you the spirit of love,
+joy and giving. Unwrap it on Christmas eve.
+Wishing you a Merry Christmas</item>
+        <item>Here comes again dat blessed morn,when our saviour was born. Rejoice and be glad for d baby Jesus brings with Him peace and joy to make your christmas a splendid one. So from my family to yours its a \'merry christmas\' Have a blast!</item>
+    </string-array>
+    <string-array name="Friends">
+        <item>Wishing You a Happy Christmas
+and to hope the New Year too.
+Will be a very prosperous
+Healthy and Happy Time for you..!!</item>
+        <item>Wishing You a Happy Christmas
+and to hope the New Year too.
+Will be a very prosperous
+Healthy and Happy Time for you..!!</item>
+        <item>May the joy and peace of Christmas be with you all through the Year. Wishing you a season of blessings from heaven above. Happy Christmas.</item>
+        <item>Christmas is not a time nor a season, but a state of mind. To cherish peace and goodwill, to be plenteous in mercy, is to have the real spirit of Christmas…</item>
+        <item>May this Christmas be so special
+that you never ever feel lonely again
+and be surrounded by loved ones throughout!</item>
+        <item>Hope your Christmas is a hug of a time!
+Hope you end up smiling like us!
+Hope all your wishes come true
+On the remarkable day of Christmas!
+Anyway, MERRY CHRISTMAS!!</item>
+        <item>I wish U Lovely X-mas</item>
+    </string-array>
+    <string-array name="Brother">
+I wish U Favorable
+I wish U Enjoyable
+U shall not Lack in this X-mas
+thy Lord shall provide to U!
+Merry X-Mas.                                                        <item></item>
+        <item>If one night you wake up and a big fat
+male is trying to put you in a sack please
+don’t be afraid because i told santa all i
+want for christmas is you. .</item>
+        <item>I am dreaming of white Christmas,
+with every christmas card i write,
+May your days be merry and bright,
+and May all your christmases be white.
+Happy Christmas.</item>
+        <item>Bells are ringing
+the wishes of christmas day
+the flying snowflakes
+send my most sincere blessings
+to you merry christmas.</item>
+        <item>I wish you a life filled with love and care,
+as you filled mine with yours.
+I thank you for your support,
+strength and faith.
+This Christmas,
+I promise you love,
+passion and togetherness for the rest of my life.
+Merry Christmas.</item>
+    </string-array>
+    <string-array name="Sister">
+        <item>Christmas is Near,
+And Its Coming,
+Be Merry!
+Be Happy!
+Have a Wonderful Christmas
+and
+New Year in Advance</item>
+        <item>Before The Church Bells Ring.
+Before The Cakes and Wine Are Served.
+Before The Holy Star Appears.
+Before Networks Get Jammed
+Let Me Wish You A
+Merry X’mas..</item>
+        <item>May ur neighbours respect you,
+Trouble neglect u,
+The angels protect u
+and Heaven accept u
+Happy Christmas and Happy Holiday</item>
+        <item>I am dreaming of white Christmas ,
+With every christmas card i write,
+May your days be merry and bright,
+And May all your christmases be white.
+Marry Christmas to all</item>
+        <item>Christmas is Near,
+And Its Coming,
+Be Merry!
+Be Happy!
+Have a Wonderful Christmas
+and
+New Year in Advance.</item>
+        <item>Your friendship is a glowing ember
+through the year n each december
+from its warm n livin spark
+W kindle flame against da dark
+n
+with its shining radiance light
+our tree of faith on Christmas night.</item>
+        <item>If one night a big fat man jumps in at your window,
+grabs you and puts you in a sack
+don’t worry I told Santa
+I wanted you for CHRISTMAS.
+HAPPY CHRISTMAS</item>
+    </string-array>
+    <string-array name="Mother">
+        <item>Your friendship is a glowing ember
+through the year n each december
+from its warm n livin spark
+W kindle flame against da dark
+n
+with its shining radiance light
+our tree of faith on Christmas night.</item>
+        <item>Your friendship is a glowing ember
+through the year n each december
+from its warm n livin spark
+W kindle flame against da dark
+n
+with its shining radiance light
+our tree of faith on Christmas night.</item>
+        <item>Christmas is not a time nor a season,
+but a state of mind.
+To cherish peace and goodwill,
+to be plenteous in mercy,
+is to have the real spirit of Christmas.</item>
+        <item>May the good times and treasures of the
+present become the golden memories of
+tomorrow.
+Wish you lots of love,
+joy and
+happiness.
+MARRY CHRISTMAS.</item>
+        <item>*,*.*
+*(‘,’)(‘,’)*
+*()()
+Christmas is near,
+and its coming,
+Be merry!
+Be happy!
+Have a wonderful Christmas
+and
+New Year in advance.</item>
+        <item>Christmas may be many things or it may be a few. For you, the joy is each new toy; for me; it’s watching U.</item>
+        <item>May ur neighbours respect you,
+Trouble neglect u,
+The angels protect u
+and Heaven accept u
+Happy Christmas and Happy Holiday</item>
+        <item>May Success be with U
+in everything that u do
+Merry Christmas
+and Happy New Year!</item>
+        <item>I wish that I could live for ever To celebrate more Christmas with you Love you darling</item>
+        <item>Every day spent with you is like Christmas because you always make it special. Merry Christmas!</item>
+        <item>Wishing our Friends and Family a Joyous Holiday filled with Peace, Love, and Prosperity. Best Wishes for a Healthy New Year! Very Mery Christmas (wishing our friends and family)</item>
+        <item>Christmas is a time when you get homesick
+even when you’re home.
+So Enjoy This Christmas
+Happy Christmas</item>
+        <item>Christmas is the festival of love and sacrifice And when it is celebrated with you it become a wonderful occasion of blessings showered on me Love you so much, Merry Christmas</item>
+        <item>New is the year, new are the hopes and the aspirations,
+new is the resolution,
+new are the spirits and forever my warm wishes are for you.
+Have a promising merry christmas.</item>
+    </string-array>
+    <string-array name="Father">
+        <item>I Am Dreaming Of White Christmas,
+
+With Every Christmas Card i Write,
+
+May Your Days Be Merry and Bright,
+
+and MAY all Your Christmases Be White.
+Happy Christmas.</item>
+        <item>Christmas is the time to touch every heart with love and care.
+Christmas is the time to receive and send blessings.
+It is the time to breathe the magic in the air.
+Wishing you a very Merry Christmas My Friend</item>
+        <item>From Home to home, and heart to heart, from one place to 
+another. The warmth and joy of Christmas, brings us closer 
+to each other.</item>
+        <item>May the joy and peace of Christmas be with you all through the Year. Wishing you a season of blessings from heaven above. Happy Christmas.</item>
+        <item>Christmas waves a
+magic wand over this world,
+and behold,
+everything is softer and more beautiful.</item>
+        <item>Christmas may be many things or it may be a few.
+For u the joy is each new toy,
+.
+But for me, it’s watching You</item>
+        <item>May this Christmas end the present year on a cheerful note and make way for a fresh and bright new year. Here’s wishing you a Merry Christmas and a Happy New Year!</item>
+        <item>Never worry about
+the size of your Christmas tree.
+In the eyes of children,
+they are all 30 feet tall.</item>
+        <item>Love came down at Christmas;
+Love all lovely, love divine;
+Love was born at Christmas,
+Stars and angels gave the sign.</item>
+        <item>Christmas is the Blessed season
+which engages the whole world
+in a conspiracy of love!</item>
+        <item>I am dreaming of white Christmas,
+with every christmas card i write,
+May your days be merry and bright,
+and May all your christmases be white.
+Happy Christmas.</item>
+    </string-array>
+    <string-array name="Kids">
+        <item>Christmas is the season for kindling the fire of hospitality in the hall, The genial flame of charity in the heart.</item>
+        <item>Heap on the wood!-the wind is chill, But let it whistle as it will, We’ll keep our Christmas merry still.</item>
+        <item>May the joy and peace of Christmas be with you all through the Year. Wishing you a season of blessings from heaven above. Happy Christmas.</item>
+        <item>Can I have your picture, so Santa Claus knows exactly what to give me.</item>
+        <item>May all the sweet magic Of Christmas conspire To gladden your hearts And fill every desire</item>
+        <item>If a big fat man creeps into your bedroom one night and stuffs you into a bag, Then do not worry ’cause I told Santa I wanted you for christmas!</item>
+        <item>Joy resounds in the hearts of those who believe in the miracle of Christmas! Wishing you all the peace, joy, and love of the season! Season’s Greetings!</item>
+        <item>People can’t concentrate properly on blowing other people to pieces if their minds are poisoned by thoughts suitable to the twenty – fifth of December.</item>
+        <item>May the good times and treasures of the present become the golden memories of tomorrow. Wish you lots of love, joy and happiness. MARRY CHRISTMAS</item>
+        <item>If one night you wake up and a big fat male is trying to put you in a sack please don’t be afraid because i told santa all i want for christmas is you.</item>
+        <item>On this Christmas, remember, the joy that you give to others, is the joy that comes back to you. So be joyful and make others joyful too! Merry Christmas!</item>
+        <item>Dear fellow texters, Due to Globeline problems, we are experiencing delayed messages. This is why as early as now I would like to greet you a Merry Christmas.</item>
+        <item>May your world be filled with warmth and good chear this Holy season, and throughout the year. Wish your christmas be filled with peace and love. Merry X-mas.</item>
+        <item>Faith makes all things possible, Hope makes all things work, Love makes all things beautiful, May you have all the three for this Christmas. MERRY CHRISTMAS!</item>
+        <item>I am dreaming of white Christmas , with every christmas card i write, May your days be merry and bright, and May all your christmases be white.Happy Christmas.</item>
+        <item>Christmas is not a time nor a season, but a state of mind. To cherish peace and goodwill, to be plenteous in mercy, is to have the real spirit of Christmas.</item>
+        <item>Don’t expect too much of Christmas Day. You can’t crowd into it any arrears of unselfishness and kindliness that may have accrued during the past twelve months.</item>
+        <item>Faith makes all things possible; Hope makes all things work and Love makes all things beautiful. May you have all the three for this Christmas. Merry Christmas!</item>
+        <item>New is the year, new are the hopes and the aspirations, new is the resolution, new are the spirits and forever my warm wishes are for u.Have a promising and fulfilling new year.</item>
+        <item>Xmas is the season of joy, of holiday greetings exchanged, of gift-giving,and of families united. </item>
+        <item>Wish you a Merry Christmas � may this festival bring abundant joy and happiness in your life! </item>
+        <item>Two things upon this changing earth can neither change nor end; the splendor of Christ\'s humble birth, the love of friend for friends</item>
+        <item>Lets welcome the year which is fresh and new,Lets cherish each moment it beholds,Lets celebrate this blissful New year.Merry Christmas! </item>
+        <item>A X-mas candle is a lovely thing;It makes no noise at all,But softly gives it away;While quite unselfish,It grows small.Merry Christmas! </item>
+        <item>I wanted To give you something really awesone but i didn\'t have enough wrapping paper I am prety big.. Merry Christmas!!!</item>
+        <item>Bells are ringing and everyone is singing, It�s Christmas! It�s Christmas! Wishing you a Merry Christmas and a Happy New Year. </item>
+        <item>Merry Christmas, Enjoy New Year, Happy Easter, Good luck on Valentines, Spooky Halloween and Happy Birthday. Now bug off and don\'t annoy me for the next 12 months!!!! </item>
+        <item>Before The Church Bells Ring.
+Before D Cakes and Wine R Served.
+Before The Holy Star Appears.
+Before Networks Get Jammed
+Let Me Wish U A</item>
+    </string-array>
+    <string-array name="Son">
+Merry X\'mas..                                                        <item></item>
+        <item>May ur neighbours respect you,
+Trouble neglect u,
+D angels protect YOu
+and Heaven accept u
+Happy Christmas and Happy Holiday</item>
+        <item>Unless we make Christmas
+an occasion 2 share our blessings,
+all D snow in Alaska won\'t make it "white".</item>
+        <item>If one night a big fat man jumps in at ur window,
+grabs you and puts you N a sack
+don\'t worry I told Santa
+I wanted you 4r CHRISTMAS.
+HAPPY CHRISTMAS </item>
+        <item>From Home to home, and heart to heart,4rom one place to
+another. The warmth and joy of Christmas, brings us closer
+2 each other.</item>
+        <item>Christmas waves a
+magic wand over this world,
+and behold,
+everything is softer and more beautiful</item>
+        <item>Christmas waves a
+magic wand over this world,
+and behold,
+everything is softer and more beautiful</item>
+        <item>I wish you Lovely X-mas
+I wish you Favorable
+I wish you Enjoyable
+you shall not Lack in this X-mas
+Thy Lord shall provide to you!</item>
+    </string-array>
+    <string-array name="Daughter">
+        <item>Can I have your picture, 
+so, Santa Claus knows exactly what to give me. 
+Merry Christmas. </item>
+        <item>May the good times and treasures of the
+present become the golden memories of tomorrow.
+Wish you lots of love, joy and happiness.
+happy christmas.</item>
+        <item>Heap on the wood!
+The wind is chill,
+But 
+let it whistle as it will, 
+We will keep our Christmas merry still.</item>
+        <item>New is the year, new are the hopes and the aspirations, 
+new is the resolution, 
+new are the spirits and forever my warm wishes are for you.
+Have a promising merry christmas.</item>
+        <item>Merry Christmas to the one I love.
+Even on this day of love for all.
+Remembering the love of one whose call.
+Redeemed all those whose hearts his love might move</item>
+        <item>Loving Father, help us to remember the birth of Jesus,
+that we may share in the song of the angels.
+the gladness of the shepherds and the worship of the wise men.
+Close the door of hate and open the door of love all over the world. 
+Merry Christmas !!!....</item>
+        <item>I hope you have a wonderful christmas have a great new year
+Hopefully santa will be extra good to you
+enjoy your holidays</item>
+        <item>Have an ideal Christmas, an occasion that is celebrated 
+as a reflection of ur values, desires, affections, traditions. </item>
+        <item>May the joy and peace of Christmas be with you all through the Year. 
+Wishing you a season of blessings from heaven above. Happy Christmas</item>
+        <item>Christmas may be many things or it may be a few.
+For u, the joy is each new toy
+for me, it\'s watching U</item>
+        <item>May this Christmas end the present year on a cheerful note,
+and make way for a fresh and bright New Year,
+Here\'s wishing you a Merry Christmas and a Happy New Year!</item>
+        <item>Wouldn\'t life be worth the living
+Wouldn\'t dreams be coming true
+If we kept the Christmas spirit
+All the whole year through</item>
+    </string-array>
+
+</resources>

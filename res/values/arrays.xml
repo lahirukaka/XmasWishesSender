@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+     <string-array name="cat_images">
+        <item>@drawable/best_friends</item>
+        <item>@drawable/friends</item>
+        <item>@drawable/brother</item>
+        <item>@drawable/sister</item>
+        <item>@drawable/mother</item>
+        <item>@drawable/father</item>
+        <item>@drawable/kids</item>
+        <item>@drawable/son</item>
+        <item>@drawable/daughter</item>
+    </string-array>
+    
+</resources>
